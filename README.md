@@ -21,7 +21,7 @@ Trabalho como dev desde 2020 utilizando React, Javacript, Typescript, Node e out
 
 </td><td valign="top" width="50%">
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonammoura" alt="leonammoura" /></a> </p>
 
 </td></tr></table>  
 
