@@ -1,19 +1,17 @@
 
-## Hey 👋, Eu sou Leonam Moura!  
-  
+## 👋 Hi there, I'm Leonam Moura!  
+### Glad to see you here! 😁
+I'm a front-end developer living and working remotely in Brazil, currently using Vite, React, TypeScript, React Query, Antd, Tailwindcss, Framer-motion and React i18next in my projects.
 
+I also often need to create api's for my projects and I use Node, TypeScript, Fastify, JWT (Access and Refresh tokens), Prisma, Postgres and Docker.
+
+
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/784152239509864459)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonammv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonam-moura)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://leonammoura.netlify.app)
 
-
-
-### Contente em te ver por aqui! 😁
-Eu sou um desenvolvedor front-end com um forte foco em desenvolver experiências do usuário suaves e livres de bug.
-
-Trabalho como dev desde 2020 utilizando React, Javacript, Typescript, Node e outras ferramentas que agregam muito valor à essa stack.
-  
 
 <br/>
 
@@ -29,7 +27,7 @@ Trabalho como dev desde 2020 utilizando React, Javacript, Typescript, Node e out
 
 
 
-## Linguagens e tecnologias que eu uso frequentemente
+## Languages and technologies I use frequently
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
